@@ -1,5 +1,7 @@
 
-change mas
+change readme
+
+add a new branch
 
 
 This is my git test
