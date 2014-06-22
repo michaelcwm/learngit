@@ -7,4 +7,11 @@ This is my git test
      ruinnin
 
 
+     git tracks change 
+
+
+
+
+
+
 
